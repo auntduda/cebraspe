@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QmZlpgC1RZKkVnvVBJ9rBUtIg+KbOTjBVQK7UlUvxlXIwclKbExjTHP52wepnhSSEDT5ozc7DZRX8zaNNYOaEQ==",
+  "dgSpecHash": "w6rhKZRJorOt9DeUc1y6aIc10G5hpGOVPlv9fXgP0Tq5QXXtNQnKYMQZgN65m6sN2Z48/03/3mdRUHJ78rrbMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\maria.santos\\Desktop\\source\\repos\\RelatorioSituacaoCandidato\\RelatorioSituacaoCandidato\\RelatorioSituacaoCandidato.csproj",
+  "projectFilePath": "C:\\Users\\maria.santos\\Desktop\\source\\cebraspe\\repos\\RelatorioSituacaoCandidato\\RelatorioSituacaoCandidato\\RelatorioSituacaoCandidato.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maria.santos\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\maria.santos\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
