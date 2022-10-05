@@ -1,27 +1,29 @@
-/*html {
-  font-size: 14px;
-}*/
-
 @media (min-width: 768px) {
   html {
     font-size: 16px;
   }
 }
 
-/*html {
-  position: relative;
-  min-height: 100%;
-}*/
-
-/*body {
-  margin-bottom: 60px;
-}*/
+nav{
+  background-color: purple;
+}
 
 .user-info{
   position: absolute;
+  text-align: justify;
   left: 73.54%;
   right: 10.25%;
   top: 12.63%;
   bottom: 85.55%;
   background-color: blue;
+}
+
+.division-bar{
+  position: absolute;
+  left: 10.1%;
+  right: 10.1%;
+  top: 15.1%;
+  bottom: 84.9%;
+
+  border: 0.5px solid #CACACA;
 }
