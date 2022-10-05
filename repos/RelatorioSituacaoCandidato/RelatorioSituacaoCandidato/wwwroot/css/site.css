@@ -27,3 +27,32 @@ nav{
 
   border: 0.5px solid #CACACA;
 }
+
+.bottom-bar{
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 89.97%;
+  bottom: 0%;
+
+  background: #1F2F63;
+}
+
+.footnote-cebraspe-corporation{
+  position: absolute;
+  left: 45.97%;
+  right: 45.97%;
+  top: 50.01%;
+  bottom: 4.04%;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #FFFFFF;
+}
