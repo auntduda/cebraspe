@@ -1,6 +1,6 @@
-html {
+/*html {
   font-size: 14px;
-}
+}*/
 
 @media (min-width: 768px) {
   html {
@@ -8,11 +8,20 @@ html {
   }
 }
 
-html {
+/*html {
   position: relative;
   min-height: 100%;
-}
+}*/
 
-body {
+/*body {
   margin-bottom: 60px;
+}*/
+
+.user-info{
+  position: absolute;
+  left: 73.54%;
+  right: 10.25%;
+  top: 12.63%;
+  bottom: 85.55%;
+  background-color: blue;
 }
